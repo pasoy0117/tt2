@@ -1,1 +1,2 @@
 members : Yang , Chae
+friend : Pochaco
