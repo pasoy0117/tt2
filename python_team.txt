@@ -1,2 +1,4 @@
 members : Yang , Chae
 friend : Pochaco
+
+manager : Melody
